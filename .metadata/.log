@@ -1495,3 +1495,114 @@ java.lang.Exception: Resource '/chapter_1/src/identifiers/Example1.java' does no
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.481
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.482
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.482
+!MESSAGE buffering callback sts4.classpath.pNiKaytW chap1 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.482
+!MESSAGE executing callback sts4.classpath.pNiKaytW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.493
+!MESSAGE executing callback sts4.classpath.pNiKaytW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.708
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.709
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.709
+!MESSAGE buffering callback sts4.classpath.pNiKaytW chap1 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.710
+!MESSAGE executing callback sts4.classpath.pNiKaytW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:56.721
+!MESSAGE executing callback sts4.classpath.pNiKaytW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:57.214
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:57.215
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:57.216
+!MESSAGE buffering callback sts4.classpath.pNiKaytW chap1 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:57.216
+!MESSAGE executing callback sts4.classpath.pNiKaytW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:26:57.222
+!MESSAGE executing callback sts4.classpath.pNiKaytW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.259
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.260
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.261
+!MESSAGE buffering callback sts4.classpath.pNiKaytW JavaLanguageFundamentals false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.261
+!MESSAGE executing callback sts4.classpath.pNiKaytW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.283
+!MESSAGE executing callback sts4.classpath.pNiKaytW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.468
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.469
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.469
+!MESSAGE buffering callback sts4.classpath.pNiKaytW JavaLanguageFundamentals false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.469
+!MESSAGE executing callback sts4.classpath.pNiKaytW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.476
+!MESSAGE executing callback sts4.classpath.pNiKaytW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.975
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.976
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.976
+!MESSAGE buffering callback sts4.classpath.pNiKaytW JavaLanguageFundamentals false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.977
+!MESSAGE executing callback sts4.classpath.pNiKaytW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:02.983
+!MESSAGE executing callback sts4.classpath.pNiKaytW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:50.137
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:50.139
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:50.139
+!MESSAGE buffering callback sts4.classpath.pNiKaytW Chapter2 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:50.140
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:50.140
+!MESSAGE buffering callback sts4.classpath.pNiKaytW chap1 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:50.141
+!MESSAGE executing callback sts4.classpath.pNiKaytW 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-17 20:29:50.154
+!MESSAGE executing callback sts4.classpath.pNiKaytW SUCCESS [done]
