@@ -10,9 +10,15 @@ public class StarPattern15 {
 				} else {
 
 				
-				System.out.print(" ");
+				System.out.print("_");
 			}}
 		System.out.println();}
 	}
 
 }
+//*___*
+//_*_*_
+//__*__
+//_*_*_
+//*___*
+
