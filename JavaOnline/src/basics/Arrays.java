@@ -21,11 +21,13 @@ public class Arrays {
 	marks[2] = 93;
 	
 	System.out.println(marks);
-	//[I@515f550a
+	//[I@515f550a    class and hashcode mixture hexadecimal code
 	
 	System.out.println(marks[0]);
 	System.out.println(marks[1]);
 	System.out.println(marks[2]);
+	
+	
 	
 	//length
 	System.out.println(marks.length );

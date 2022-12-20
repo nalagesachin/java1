@@ -31,7 +31,7 @@ public class JavaDataTyapes {
 		
 		char space = ' ';
 		char number = '1';
-		char symbol = '@'; //0-9
+		char symbol = '@'; //0-9 ALL SYMBOLS
 		System.out.println("-----------------");
 		
 		//logic answer in yes and no or true false

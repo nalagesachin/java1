@@ -12,22 +12,22 @@ public class Main {
 		System.out.println("hello world");
 		System.out.println("ghfgf");
 		
-		//length
+		//length total number
 		System.out.println(nameFirst.length());
 		
 		//concatinatin
-		String nameFull = nameFirst + nameLast;
+		String nameFull = nameFirst + " " +  nameLast;
 				System.out.println(nameFull);
 				
 		//charAt
-		System.out.println(nameFirst.charAt(0));
+		System.out.println(nameFirst.charAt(3)); //0 to n-1
 		
 		//replace
 		String name2 =nameFirst.replace('s','S'); 
 		System.out.println(name2);
 		
 		//sub string
-		System.out.println(nameFull.substring(0,12));
+		System.out.println(nameFull.substring(0,13));
 	
 				
 	}
